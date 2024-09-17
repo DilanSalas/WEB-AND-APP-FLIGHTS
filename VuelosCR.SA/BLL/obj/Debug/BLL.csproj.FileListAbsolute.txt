@@ -1,0 +1,6 @@
+C:\Users\Estudiante1\Desktop\Examen 2 C26256 C27059\VuelosCR.SA\BLL\bin\Debug\BLL.dll
+C:\Users\Estudiante1\Desktop\Examen 2 C26256 C27059\VuelosCR.SA\BLL\bin\Debug\BLL.pdb
+C:\Users\Estudiante1\Desktop\Examen 2 C26256 C27059\VuelosCR.SA\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Estudiante1\Desktop\Examen 2 C26256 C27059\VuelosCR.SA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante1\Desktop\Examen 2 C26256 C27059\VuelosCR.SA\BLL\obj\Debug\BLL.dll
+C:\Users\Estudiante1\Desktop\Examen 2 C26256 C27059\VuelosCR.SA\BLL\obj\Debug\BLL.pdb

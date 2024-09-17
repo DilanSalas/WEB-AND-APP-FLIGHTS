@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|c:\\users\\estudiante1\\desktop\\examen 2 c26256 c27059\\appvueloscrweb\\appvueloscrweb\\views\\tiquetes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|solutionrelative:appvueloscrweb\\views\\tiquetes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|c:\\users\\estudiante1\\desktop\\examen 2 c26256 c27059\\appvueloscrweb\\appvueloscrweb\\controllers\\tiquetescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|solutionrelative:appvueloscrweb\\controllers\\tiquetescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|c:\\users\\estudiante1\\desktop\\examen 2 c26256 c27059\\appvueloscrweb\\appvueloscrweb\\models\\dbconextvuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|solutionrelative:appvueloscrweb\\models\\dbconextvuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|c:\\users\\estudiante1\\desktop\\examen 2 c26256 c27059\\appvueloscrweb\\appvueloscrweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|solutionrelative:appvueloscrweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|c:\\users\\estudiante1\\desktop\\examen 2 c26256 c27059\\appvueloscrweb\\appvueloscrweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|solutionrelative:appvueloscrweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|c:\\users\\estudiante1\\desktop\\examen 2 c26256 c27059\\appvueloscrweb\\appvueloscrweb\\models\\tiquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|solutionrelative:appvueloscrweb\\models\\tiquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|c:\\users\\estudiante1\\desktop\\examen 2 c26256 c27059\\appvueloscrweb\\appvueloscrweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|solutionrelative:appvueloscrweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|c:\\users\\estudiante1\\desktop\\examen 2 c26256 c27059\\appvueloscrweb\\appvueloscrweb\\appvueloscrweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10D9551B-A9E6-441C-B96A-105F5A301389}|AppVuelosCRWeb\\AppVuelosCRWeb.csproj|solutionrelative:appvueloscrweb\\appvueloscrweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 384,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Views\\Tiquetes\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppVuelosCRWeb\\Views\\Tiquetes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Views\\Tiquetes\\Index.cshtml",
+              "RelativeToolTip": "AppVuelosCRWeb\\Views\\Tiquetes\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T22:14:42.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppVuelosCRWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppVuelosCRWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T20:13:32.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TiquetesController.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Controllers\\TiquetesController.cs",
+              "RelativeDocumentMoniker": "AppVuelosCRWeb\\Controllers\\TiquetesController.cs",
+              "ToolTip": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Controllers\\TiquetesController.cs",
+              "RelativeToolTip": "AppVuelosCRWeb\\Controllers\\TiquetesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:10:59.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Program.cs",
+              "RelativeDocumentMoniker": "AppVuelosCRWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Program.cs",
+              "RelativeToolTip": "AppVuelosCRWeb\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:08:12.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbConextVuelos.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Models\\DbConextVuelos.cs",
+              "RelativeDocumentMoniker": "AppVuelosCRWeb\\Models\\DbConextVuelos.cs",
+              "ToolTip": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Models\\DbConextVuelos.cs",
+              "RelativeToolTip": "AppVuelosCRWeb\\Models\\DbConextVuelos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:05:50.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppVuelosCRWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\AppVuelosCRWeb.csproj",
+              "RelativeDocumentMoniker": "AppVuelosCRWeb\\AppVuelosCRWeb.csproj",
+              "ToolTip": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\AppVuelosCRWeb.csproj",
+              "RelativeToolTip": "AppVuelosCRWeb\\AppVuelosCRWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T20:05:03.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tiquete.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Models\\Tiquete.cs",
+              "RelativeDocumentMoniker": "AppVuelosCRWeb\\Models\\Tiquete.cs",
+              "ToolTip": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\Models\\Tiquete.cs",
+              "RelativeToolTip": "AppVuelosCRWeb\\Models\\Tiquete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:00:55.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "AppVuelosCRWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Estudiante1\\Desktop\\Examen 2 C26256 C27059\\AppVuelosCRWeb\\AppVuelosCRWeb\\appsettings.json",
+              "RelativeToolTip": "AppVuelosCRWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T19:58:40.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

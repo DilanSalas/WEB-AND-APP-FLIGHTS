@@ -1,0 +1,58 @@
+﻿@model IEnumerable<AppVuelosCRWeb.Models.Tiquete>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nombreCompleto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lugarDestino)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.aerolinea)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.pagoTiquete)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.impuesto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.precioFinal)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombreCompleto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.lugarDestino)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.aerolinea)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.pagoTiquete)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.impuesto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precioFinal)
+            </td>
+
+        </tr>
+}
+    </tbody>
+</table>
